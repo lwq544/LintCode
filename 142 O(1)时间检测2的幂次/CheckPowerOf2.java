@@ -1,25 +1,15 @@
-class Solution {
-    /*
-     * @param n: An integer
-     * @return: True or false
-     */
-    public boolean checkPowerOf2(int n) {
-        // write your code here
-        boolean flag = true;
-        if(n<0) {
-            flag = false;
-        } else {
-            String binaryString = Integer.toBinaryString(n);
-            if(binaryString.startsWith("1")) {
-                for(int i=1; i<binaryString.length(); i++) {
-                    if(binaryString.charAt(i) != '0') {
-                        flag = false;
-                    }
-                }
-            } else {
-                flag = false;
-            }
-        }
-        return flag;
+/**
+ * Created by Silocean on 2016-04-01.
+ */
+public class CheckPowerOf2 {
+    public static void main(String[] args) {
+        System.out.println(checkPowerOf2(5));
     }
-};
+
+    public static boolean checkPowerOf2(int n) {
+        if (n > 0 && (n & (n - 1)) == 0) {
+            return true;
+        }
+        return false;
+    }
+}
