@@ -14,8 +14,7 @@ public class RecoverRotatedSortedArray {
     public static void recoverRotatedSortedArray(ArrayList<Integer> nums) {
         // write your code
         while (nums.get(0) >= nums.get(nums.size()-1)) {
-            int temp = nums.remove(0);
-            nums.add(temp);
+            nums.add(nums.remove(0));
         }
         /*for (int i = 0; i < nums.size(); i++) {
             System.out.println(nums.get(i));
