@@ -65,6 +65,7 @@ My solutions of LintCode problems.
 | 374  | [螺旋矩阵](http://www.lintcode.com/zh-cn/problem/spiral-matrix/) | [Java](https://github.com/Silocean/LintCode/blob/master/374%20%E8%9E%BA%E6%97%8B%E7%9F%A9%E9%98%B5/SpiralOrder.java) | Medium     |
 | 376  | [二叉树的路径和](http://www.lintcode.com/zh-cn/problem/binary-tree-path-sum/) | [Java](https://github.com/Silocean/LintCode/blob/master/376%20%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E8%B7%AF%E5%BE%84%E5%92%8C/BinaryTreePathSum.java) | Easy       |
 | 381  | [螺旋矩阵II](http://www.lintcode.com/zh-cn/problem/spiral-matrix-ii/) | [Java](https://github.com/Silocean/LintCode/blob/master/381%20%E8%9E%BA%E6%97%8B%E7%9F%A9%E9%98%B5II/GenerateMatrix.java) | Medium     |
+| 387  | [最小差](http://www.lintcode.com/zh-cn/problem/the-smallest-difference/) | [Java](https://github.com/Silocean/LintCode/blob/4ec8dd8985ffa02836d186e89f292886bb1931f9/387%20%E6%9C%80%E5%B0%8F%E5%B7%AE/SmallestDifference.java) | Medium     |
 | 391  | [数飞机](http://www.lintcode.com/problem/number-of-airplanes-in-the-sky) | [Java](https://github.com/Silocean/LintCode/blob/master/391%20%E6%95%B0%E9%A3%9E%E6%9C%BA/CountOfAirplanes.java) | Medium     |
 | 407  | [加一](http://www.lintcode.com/problem/plus-one) | [Java](https://github.com/Silocean/LintCode/blob/master/407%20%E5%8A%A0%E4%B8%80/PlusOne.java) | Easy       |
 | 413  | [反转整数](http://www.lintcode.com/zh-cn/problem/reverse-integer/) | [Java](https://github.com/Silocean/LintCode/blob/907035b3e740c059cb5601ab2f2e548b21181fe3/413%20%E5%8F%8D%E8%BD%AC%E6%95%B4%E6%95%B0/ReverseInteger.java) | Easy       |
