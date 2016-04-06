@@ -77,7 +77,7 @@ My solutions of LintCode problems.
 | 391  | [数飞机](http://www.lintcode.com/problem/number-of-airplanes-in-the-sky) | [Java](https://github.com/Silocean/LintCode/blob/master/391%20%E6%95%B0%E9%A3%9E%E6%9C%BA/CountOfAirplanes.java) | Medium     |
 | 407  | [加一](http://www.lintcode.com/problem/plus-one) | [Java](https://github.com/Silocean/LintCode/blob/master/407%20%E5%8A%A0%E4%B8%80/PlusOne.java) | Easy       |
 | 413  | [反转整数](http://www.lintcode.com/zh-cn/problem/reverse-integer/) | [Java](https://github.com/Silocean/LintCode/blob/907035b3e740c059cb5601ab2f2e548b21181fe3/413%20%E5%8F%8D%E8%BD%AC%E6%95%B4%E6%95%B0/ReverseInteger.java) | Easy       |
-| 415  | [有效回文串](http://www.lintcode.com/zh-cn/problem/valid-palindrome/) | [Java](https://github.com/Silocean/LintCode/blob/166ff858192a4fda9ad2c7e6f9809172a3b0352c/415%20%E6%9C%89%E6%95%88%E5%9B%9E%E6%96%87%E4%B8%B2/IsPalindrome.java) | Easy       |
+| 415  | [有效回文串](http://www.lintcode.com/zh-cn/problem/valid-palindrome/) | [Java&Python](https://github.com/Silocean/LintCode/tree/415aceded3f32580c362d489930e144d1ca096c4/415%20%E6%9C%89%E6%95%88%E5%9B%9E%E6%96%87%E4%B8%B2) | Easy       |
 | 419  | [罗马数字转整数](http://www.lintcode.com/zh-cn/problem/roman-to-integer/) | [Java](https://github.com/Silocean/LintCode/blob/dd27d67dd963903c0220d8c4060278454377e630/419%20%E7%BD%97%E9%A9%AC%E6%95%B0%E5%AD%97%E8%BD%AC%E6%95%B4%E6%95%B0/RomanToInt.java) | Medium     |
 | 422  | [最后一个单词的长度](http://www.lintcode.com/zh-cn/problem/length-of-last-word/) | [Java](https://github.com/Silocean/LintCode/blob/master/422%20%E6%9C%80%E5%90%8E%E4%B8%80%E4%B8%AA%E5%8D%95%E8%AF%8D%E7%9A%84%E9%95%BF%E5%BA%A6/LengthOfLastWord.java) | Easy       |
 | 423  | [有效的括号序列](http://www.lintcode.com/problem/valid-parentheses) | [Java](https://github.com/Silocean/LintCode/blob/master/423%20%E6%9C%89%E6%95%88%E7%9A%84%E6%8B%AC%E5%8F%B7%E5%BA%8F%E5%88%97/ValidParentheses.java) | Easy       |
@@ -88,4 +88,3 @@ My solutions of LintCode problems.
 | 480  | [二叉树的所有路径](http://www.lintcode.com/zh-cn/problem/binary-tree-paths/) | [Java](https://github.com/Silocean/LintCode/blob/a25652c48a292cafe6b6927be7ed4762ad12a9d7/480%20%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E6%89%80%E6%9C%89%E8%B7%AF%E5%BE%84/BinaryTreePaths.java) | Easy       |
 | 488  | [快乐数](http://www.lintcode.com/problem/happy-number) | [Java](https://github.com/Silocean/LintCode/blob/master/488%20%E5%BF%AB%E4%B9%90%E6%95%B0/HappyNumber.java) | Easy       |
 | 517  | [丑数](http://www.lintcode.com/problem/ugly-number) | [C++&Python](https://github.com/Silocean/LintCode/tree/aa0c9183a0d6f44bc6ce2a5e317b1a1f9021fd04/517%20%E4%B8%91%E6%95%B0) | Easy       |
-
