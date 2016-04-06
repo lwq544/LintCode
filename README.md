@@ -87,4 +87,5 @@ My solutions of LintCode problems.
 | 469  | [等价二叉树](http://www.lintcode.com/zh-cn/problem/identical-binary-tree/) | [Java](https://github.com/Silocean/LintCode/blob/cf092ab616ef5700be42f6ac881e8abbe53aa9f7/469%20%E7%AD%89%E4%BB%B7%E4%BA%8C%E5%8F%89%E6%A0%91/IsIdentical.java) | Easy       |
 | 480  | [二叉树的所有路径](http://www.lintcode.com/zh-cn/problem/binary-tree-paths/) | [Java](https://github.com/Silocean/LintCode/blob/a25652c48a292cafe6b6927be7ed4762ad12a9d7/480%20%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E6%89%80%E6%9C%89%E8%B7%AF%E5%BE%84/BinaryTreePaths.java) | Easy       |
 | 488  | [快乐数](http://www.lintcode.com/problem/happy-number) | [Java](https://github.com/Silocean/LintCode/blob/master/488%20%E5%BF%AB%E4%B9%90%E6%95%B0/HappyNumber.java) | Easy       |
-| 517  | [丑数](http://www.lintcode.com/problem/ugly-number) | [C++](https://github.com/Silocean/LintCode/blob/master/517%20%E4%B8%91%E6%95%B0/IsUgly.cpp) | Easy       |
+| 517  | [丑数](http://www.lintcode.com/problem/ugly-number) | [C++&Python](https://github.com/Silocean/LintCode/tree/aa0c9183a0d6f44bc6ce2a5e317b1a1f9021fd04/517%20%E4%B8%91%E6%95%B0) | Easy       |
+
