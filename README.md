@@ -39,6 +39,7 @@ My solutions of LintCode problems.
 | 097  | [二叉树的最大深度](http://www.lintcode.com/problem/maximum-depth-of-binary-tree) | [Java](https://github.com/Silocean/LintCode/blob/master/097%20%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E6%9C%80%E5%A4%A7%E6%B7%B1%E5%BA%A6/MaximumDepthofBinaryTree.java) | Easy       |
 | 100  | [删除排序数组中的重复数字](http://www.lintcode.com/problem/remove-duplicates-from-sorted-array) | [Java](https://github.com/Silocean/LintCode/blob/master/100%20%E5%88%A0%E9%99%A4%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E9%87%8D%E5%A4%8D%E6%95%B0%E5%AD%97/RemoveDuplicates.java) | Easy       |
 | 111  | [爬楼梯](http://www.lintcode.com/zh-cn/problem/climbing-stairs/#) | [Java](https://github.com/Silocean/LintCode/blob/master/111%20%E7%88%AC%E6%A5%BC%E6%A2%AF/ClimbStairs.java) | Easy       |
+| 112  | [删除排序链表中的重复元素](http://www.lintcode.com/zh-cn/problem/remove-duplicates-from-sorted-list/#) | [Java](https://github.com/Silocean/LintCode/blob/3c174bef1e95c55041f641e2766ce2a84cecc24a/112%20%E5%88%A0%E9%99%A4%E6%8E%92%E5%BA%8F%E9%93%BE%E8%A1%A8%E4%B8%AD%E7%9A%84%E9%87%8D%E5%A4%8D%E5%85%83%E7%B4%A0/DeleteDuplicates.java) | Easy       |
 | 133  | [最长单词](http://www.lintcode.com/problem/longest-words) | [Java](https://github.com/Silocean/LintCode/blob/master/133%20%E6%9C%80%E9%95%BF%E5%8D%95%E8%AF%8D/LongestWords.java) | Easy       |
 | 140  | [快速幂](http://www.lintcode.com/zh-cn/problem/fast-power/) | [Java](https://github.com/Silocean/LintCode/blob/master/140%20%E5%BF%AB%E9%80%9F%E5%B9%82/FastPower.java) | Medium     |
 | 142  | [O(1)时间检测2的幂次](http://www.lintcode.com/problem/o1-check-power-of-2) | [Java](https://github.com/Silocean/LintCode/blob/master/142%20O(1)%E6%97%B6%E9%97%B4%E6%A3%80%E6%B5%8B2%E7%9A%84%E5%B9%82%E6%AC%A1/CheckPowerOf2.java) | Easy       |
@@ -85,4 +86,3 @@ My solutions of LintCode problems.
 | 480  | [二叉树的所有路径](http://www.lintcode.com/zh-cn/problem/binary-tree-paths/) | [Java](https://github.com/Silocean/LintCode/blob/a25652c48a292cafe6b6927be7ed4762ad12a9d7/480%20%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E6%89%80%E6%9C%89%E8%B7%AF%E5%BE%84/BinaryTreePaths.java) | Easy       |
 | 488  | [快乐数](http://www.lintcode.com/problem/happy-number) | [Java](https://github.com/Silocean/LintCode/blob/master/488%20%E5%BF%AB%E4%B9%90%E6%95%B0/HappyNumber.java) | Easy       |
 | 517  | [丑数](http://www.lintcode.com/problem/ugly-number) | [C++](https://github.com/Silocean/LintCode/blob/master/517%20%E4%B8%91%E6%95%B0/IsUgly.cpp) | Easy       |
-
