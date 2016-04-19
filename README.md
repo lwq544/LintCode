@@ -106,5 +106,6 @@ My solutions of LintCode problems.
 | 480  | [二叉树的所有路径](http://www.lintcode.com/zh-cn/problem/binary-tree-paths/) | [Java](https://github.com/Silocean/LintCode/blob/a25652c48a292cafe6b6927be7ed4762ad12a9d7/480%20%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E6%89%80%E6%9C%89%E8%B7%AF%E5%BE%84/BinaryTreePaths.java) | Easy       |
 | 488  | [快乐数](http://www.lintcode.com/problem/happy-number) | [Java](https://github.com/Silocean/LintCode/blob/master/488%20%E5%BF%AB%E4%B9%90%E6%95%B0/HappyNumber.java) | Easy       |
 | 496  | [Toy Factory](http://www.lintcode.com/zh-cn/problem/toy-factory/) | [Java](https://github.com/Silocean/LintCode/blob/aab1f1f78eb2a311c7ab4882e8ee4e0e5edbbd30/496%20Toy%20Factory/ToyFactory.java) | Easy       |
+| 497  | [Shape Factory](http://www.lintcode.com/zh-cn/problem/shape-factory/) | [Java](https://github.com/Silocean/LintCode/blob/76387a9570762a75626c276b3dce6e492a08f15b/497%20Shape%20Factory/ShapeFactory.java) | Easy       |
 | 517  | [丑数](http://www.lintcode.com/problem/ugly-number) | [C++&Python](https://github.com/Silocean/LintCode/tree/aa0c9183a0d6f44bc6ce2a5e317b1a1f9021fd04/517%20%E4%B8%91%E6%95%B0) | Easy       |
 | 524  | [Left Pad](http://www.lintcode.com/zh-cn/problem/left-pad/?rand=true#) | [Java](https://github.com/Silocean/LintCode/blob/f854cb3bb652ca0bdb15c8bd803399f84f8e4914/524%20Left%20Pad/LeftPad.java) | Easy       |
