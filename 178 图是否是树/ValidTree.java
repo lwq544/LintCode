@@ -23,16 +23,15 @@ public class ValidTree {
             if (pID == qID) {
                 return false;
             } else {
-                for (int j = 0; j < n; j++) {
-                    if (id[j] == pID) id[j] = qID;
-                }
+                id[pID] = qID;
             }
         }
         return true;
     }
 
     private static int find(int p) {
-        return id[p];
+        while (p != id[p]) p = id[p];
+        return p;
     }
 
 }
