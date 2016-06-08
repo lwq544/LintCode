@@ -4,6 +4,7 @@ My solutions of LintCode problems.
 
 | #    | Title                                    | Solution                                 | Difficulty |
 | :--- | :--------------------------------------- | :--------------------------------------- | :--------- |
+| 001  | [A + B 问题](http://www.lintcode.com/zh-cn/problem/a-b-problem/) | [Java](https://github.com/Silocean/LintCode/blob/ec224387c6729d3040558b78f965c347f656d183/001%20A%20+%20B%20%E9%97%AE%E9%A2%98/AplusB.java) | Easy       |
 | 002  | [尾部的零](http://www.lintcode.com/zh-cn/problem/trailing-zeros/) | [Java&C++](https://github.com/Silocean/LintCode/tree/master/002%20%E5%B0%BE%E9%83%A8%E7%9A%84%E9%9B%B6) | Easy       |
 | 003  | [统计数字](http://www.lintcode.com/zh-cn/problem/digit-counts/) | [Java&C++](https://github.com/Silocean/LintCode/tree/master/003%20%E7%BB%9F%E8%AE%A1%E6%95%B0%E5%AD%97) | Medium     |
 | 005  | [第K大元素](http://www.lintcode.com/problem/kth-largest-element) | [Java](https://github.com/Silocean/LintCode/blob/0b4349d8950bbf2304ef1e16be4173246ed19bfc/005%20%E7%AC%ACK%E5%A4%A7%E5%85%83%E7%B4%A0/KthLargestElement.java) | Medium     |
