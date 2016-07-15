@@ -136,3 +136,4 @@ My solutions of LintCode problems.
 | 517  | [丑数](http://www.lintcode.com/problem/ugly-number) | [C++&Python](https://github.com/Silocean/LintCode/tree/aa0c9183a0d6f44bc6ce2a5e317b1a1f9021fd04/517%20%E4%B8%91%E6%95%B0) | Easy       |
 | 524  | [Left Pad](http://www.lintcode.com/zh-cn/problem/left-pad/?rand=true#) | [Java](https://github.com/Silocean/LintCode/blob/f854cb3bb652ca0bdb15c8bd803399f84f8e4914/524%20Left%20Pad/LeftPad.java) | Easy       |
 | 532  | [逆序对](http://www.lintcode.com/zh-cn/problem/reverse-pairs/) | [Java](https://github.com/Silocean/LintCode/blob/81baeeb507e0feebf5b48715feff05138034efa5/532%20%E9%80%86%E5%BA%8F%E5%AF%B9/ReversePairs.java) | Medium     |
+| 547  | [两数组的交](http://www.lintcode.com/zh-cn/problem/intersection-of-two-arrays/#) | [Python](https://github.com/Silocean/LintCode/blob/5d22acdee7bf9c6c0cee4445ec47734503cca997/547%20%E4%B8%A4%E6%95%B0%E7%BB%84%E7%9A%84%E4%BA%A4/Intersection.py) | Medium     |
