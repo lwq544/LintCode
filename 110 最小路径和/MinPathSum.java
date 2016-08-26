@@ -4,7 +4,6 @@ public class Solution {
      * @return: An integer, minimizes the sum of all numbers along its path
      */
     public int minPathSum(int[][] grid) {
-        // write your code here
         int m = grid.length;
         int n = grid[0].length;
 
