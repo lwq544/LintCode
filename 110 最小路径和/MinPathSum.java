@@ -24,4 +24,8 @@ public class Solution {
         return grid[m - 1][n - 1];
     }
 
+    public int min(int a, int b) {
+        return a < b ? a : b;
+    }
+
 }
