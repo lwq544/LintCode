@@ -69,6 +69,7 @@ My solutions of LintCode problems.
 | 115  | [不同的路径II](http://www.lintcode.com/zh-cn/problem/unique-paths-ii/) | [Java](https://github.com/Silocean/LintCode/blob/bff2b4a9bd8ac844f3a59508b0b16720b4f81eda/115%20不同的路径II/UniquePathsWithObstacles.py) | Easy       |
 | 116  | [跳跃游戏](http://www.lintcode.com/zh-cn/problem/jump-game/) | [Java](https://github.com/Silocean/LintCode/blob/144615b3a6af99387d18ec9e85caa310414c06af/116%20%E8%B7%B3%E8%B7%83%E6%B8%B8%E6%88%8F/Jump.java) | Medium     |
 | 117  | [跳跃游戏II](http://www.lintcode.com/zh-cn/problem/jump-game-ii/?rand=true) | [Java](https://github.com/Silocean/LintCode/blob/1ac97009cde34a023ca684999f11857366e9b4ee/117%20%E8%B7%B3%E8%B7%83%E6%B8%B8%E6%88%8FII/JumpII.java) | Medium     |
+| 125  | [背包问题II](http://www.lintcode.com/zh-cn/problem/backpack-ii/#) | [Java](https://github.com/Silocean/LintCode/blob/7f44d0ed682806942c7588867efab13640511085/125%20%E8%83%8C%E5%8C%85%E9%97%AE%E9%A2%98II/BackPackII.java) | Medium     |
 | 130  | [堆化](http://www.lintcode.com/zh-cn/problem/heapify/) | [Java](https://github.com/Silocean/LintCode/blob/6677982a571584f9e4c865207ba0aef5424f7b15/130%20%E5%A0%86%E5%8C%96/Heapify.java) | Medium     |
 | 133  | [最长单词](http://www.lintcode.com/problem/longest-words) | [Java](https://github.com/Silocean/LintCode/blob/master/133%20%E6%9C%80%E9%95%BF%E5%8D%95%E8%AF%8D/LongestWords.java) | Easy       |
 | 140  | [快速幂](http://www.lintcode.com/zh-cn/problem/fast-power/) | [Java](https://github.com/Silocean/LintCode/blob/master/140%20%E5%BF%AB%E9%80%9F%E5%B9%82/FastPower.java) | Medium     |
